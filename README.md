@@ -1,6 +1,6 @@
-## Project Name: Call Center Performance Dashboard	
-## Tool Used: Microsoft Excel	
-## Skills: Pivot Tables, Pivot Charts, KPI Analysis, Dashboard Design, Data Visualization	
+- Project Name: Call Center Performance Dashboard	
+- Tool Used: Microsoft Excel	
+- Skills: Pivot Tables, Pivot Charts, KPI Analysis, Dashboard Design, Data Visualization	
 	
 	
 # CALL CENTER PERFORMANCE DASHBOARD	
